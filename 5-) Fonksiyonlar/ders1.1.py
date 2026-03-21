@@ -1,8 +1,8 @@
 # method 
 
-list = [1,2,3]
+list = [1,2,3,4]
 
-list.append (4)
+list.append (5)
 
 print(type(list))
  
