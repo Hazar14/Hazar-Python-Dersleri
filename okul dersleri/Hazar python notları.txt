@@ -1,5 +1,0 @@
-Pythonda kullanbilen iki tane sayısal veri tipi vardır 
-
-integer : Tam sayıları ifade eder (2 3 4) 
-
-float : ondalıklı sayıları ifade eder ( 2.1 , 3,4 gibi )
