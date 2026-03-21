@@ -1,0 +1,31 @@
+import random
+sayi = random.randint(1,10)
+print(sayi)
+can= int (input("kaç can istersiniz ? : "))
+hak = can
+sayac = 0
+
+while hak > 0 : 
+    hak -= 1
+    sayac += 1
+    tahmin=int(input("Write Your Guess : "))
+    
+    if sayi==tahmin : 
+        print(f"Congrats Thats True ! {sayac} and your point is : {100-((sayac-1)*20)} ")
+        break 
+   
+   
+    if hak == 0 : 
+       print(f"your right has finished the number is : {sayi} ") 
+       break
+    
+    
+    elif sayi > tahmin : 
+        print("Up")
+
+    else :
+        print("Down")
+
+    
+    
+    
