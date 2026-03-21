@@ -1,3 +1,5 @@
+# python operatörleri 
+
 # x=5
 # y=10
 # z=20
