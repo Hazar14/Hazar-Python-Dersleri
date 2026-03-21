@@ -6,7 +6,7 @@ print(maas_asya - (maas_asya*vergioran))
 print(maas_hazar - (maas_hazar*vergioran))
 print(maas_cengiz - (maas_cengiz*vergioran))
 
-# Değişken Tanımlma Kuralları
+# Değişken Tanımlama Kuralları
  # rakam ile başlayamaz
  # boşluk içeremez
  # büyük küçük harf duyarlılığı vardır
