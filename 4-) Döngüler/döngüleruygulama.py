@@ -1,6 +1,6 @@
 import random
 sayi = random.randint(1,10)
-print(sayi)
+
 can= int (input("kaç can istersiniz ? : "))
 hak = can
 sayac = 0
