@@ -15,8 +15,8 @@
 
 # print(sehirler)
 # # change
-# # n=sehirler[:] #slicing
-# # n[0]="istanbul"
+# # n=sehirler[:] #slicing işlemi yapar
+# # n[0]="istanbul" 
 
 def add(a,b,c=0) : 
     return sum((a,b,c))
@@ -35,7 +35,7 @@ def add(*params) :
 
 print(add(10,20))
 print(add(10,20,30))
-print(add(10,20,30,40,50,60,70,80))
+print(add(10,20,30,40,50,60,70,))
 
 
 
