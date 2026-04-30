@@ -11,5 +11,3 @@ print(greeting)
 #print(greeting[3:13])
 #print(greeting[:13])
 #print(greeting[2:40:2])
-
-print(length)
