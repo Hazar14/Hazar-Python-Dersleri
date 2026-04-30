@@ -28,7 +28,7 @@ print(course[88:104])"""
 
 
 name,surname,age,job = "Hazar", "Kaya", 19 , "Student"
-#yukarıda verilen değişkenler ile ekrana aşağıdaki ifadeyi yzadırın 
+#yukarıda verilen değişkenler ile ekrana aşağıdaki ifadeyi yazdırın 
 #"Benim adım hazar kaya yaşım 19 ve mesleğim öğrenci"
 """print(f"My name is {name} {surname} I am {age} years old and My job is {job}" )"""
 
