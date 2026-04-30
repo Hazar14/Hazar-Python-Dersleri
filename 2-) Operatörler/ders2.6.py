@@ -5,7 +5,7 @@ z=[1,2,3]
 
 print(x is y)
 
-#is operatörü tanımlanan ifadelerin aynı referansta olup olmadığına bakar.
+#is operatörü tanımlanalman ifadelerin aynı referansta olup odığına bakar.
 #is not operatörü de vardır.
 
 
