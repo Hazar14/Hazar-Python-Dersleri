@@ -7,8 +7,8 @@ length= len(website)
 
 
 # course karakter dizisinde kaç karakter bulunmaktadır ? 
-result = len(course)
-print(result)
+"""result = len(course)
+  print(result)"""
 
 #website içinden www karakterlerini alın
 """print(website[8:11])"""
