@@ -39,8 +39,8 @@ def anaprogram():
             print("\n1- Bakiye Sorgula\n2- Para Yatirma\n3- Para Cekme\n4- Cikis Yap")
             secim = input("Islem Secin (1-4) : ")
 
-            if secim == "4": # Tırnak içinde yazdık çünkü input string gelir
-                print("Cikis Yapildi. Yine bekleriz kanka!")
+            if secim == "4": # Tırnak içinde yazdım çünkü input string gelir
+                print("Cikis Yapildi.")
                 break
 
             elif secim == "1":
@@ -54,7 +54,7 @@ def anaprogram():
             elif secim == "3": 
                 cekilecekmiktar = int(input("Cekmek istediginiz Miktari giriniz : "))
                 if cekilecekmiktar <= bakiye: 
-                    bakiye -= cekilecekmiktar # Bakiyeden düşmeyi unutmuşuz, ekledim
+                    bakiye -= cekilecekmiktar # Bakiyeden düşmesi lazım.
                     print(f"Islem basarili. Güncel bakiyeniz : {bakiye} TL ")
                 else: 
                     print(f"Bakiye Yetersiz. Mevcut bakiyeniz : {bakiye} TL ")
