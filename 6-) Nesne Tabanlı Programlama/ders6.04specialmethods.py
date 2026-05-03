@@ -28,3 +28,6 @@ m = Movie("film adi", "yönetmen adi", 120)
 # print(m)
 print(str(m))
 # print(len(m))
+
+
+# Kalanları internet üzerinden araştır.
