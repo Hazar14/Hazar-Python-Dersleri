@@ -60,7 +60,7 @@ def anaprogram():
                     print(f"Bakiye Yetersiz. Mevcut bakiyeniz : {bakiye} TL ")
             
             else: 
-                print("Gecersiz sayi lütfen 1 ile 4 arasinda bir sayi secin.")cls
+                print("Gecersiz sayi lütfen 1 ile 4 arasinda bir sayi secin.")
 
 # PROGRAMI BAŞLATAN SATIR
 anaprogram()
