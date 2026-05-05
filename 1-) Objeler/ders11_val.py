@@ -8,7 +8,7 @@ numbers = [
 letters = ["a", "b", "c", "d", "e"]
 
 # val=min(numbers) ->liste içindeki minimum sayıyı yazdırır
-val = max(numbers)  # -> liste içindeki maksimum sayıyı yazdırır
+# val=max(numbers) -> liste içindeki maksimum sayıyı yazdırır
 
 
 # numbers.sort() ->listeyi küçükten büyüğe doğru sıralar.
@@ -19,4 +19,4 @@ val = max(numbers)  # -> liste içindeki maksimum sayıyı yazdırır
 # numbers.clear() -> listedeki bütün elemanları siler.
 
 
-print(val)
+# print(val)
