@@ -1,9 +1,9 @@
 import random
 
 sayi = random.randint(1, 10)
-
-can = int(input("kaç can istersiniz ? : "))
-hak = can
+print(sayi)
+# can = int(input("kaç can istersiniz ? : "))
+hak = 5
 sayac = 0
 
 while hak > 0:
@@ -19,6 +19,7 @@ while hak > 0:
 
     if hak == 0:
         print(f"your right has finished the number is : {sayi} ")
+        print("your point is 0 ")
         break
 
     elif sayi > tahmin:
