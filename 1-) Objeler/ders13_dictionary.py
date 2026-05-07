@@ -1,19 +1,19 @@
-#sehirler= ["kastamonu","istanbul"]
-#plakalar=[37,34]
+# sehirler= ["kastamonu","istanbul"]
+# plaka=[37,34]
 
-#print(plakalar[sehirler.index("istanbul")])
+# print(plakalar[sehirler.index("istanbul")])
 
-#plakalar={"kastamonu" : 37, "istanbul" : 34}
- 
-#print(plakalar["kastamonu"])
-#print(plakalar["istanbul"])
+# plakalar={"kastamonu" : 37, "istanbul" : 34}
 
-#plakalar["ankara"] = 6
+# print(plakalar["kastamonu"])
+# print(plakalar["istanbul"])
 
-#print(plakalar)
+# plakalar["ankara"] = 6
+
+# print(plakalar)
 
 """users={
-    
+
     "hazar" : {
     "age" : 19,
     "mailadresi" : "hazar@mail.com",
@@ -23,7 +23,7 @@
          "age" :26,
          "mailadresi" : "asya@mail.com",
         "phone" : "321321"
-        } 
+        }
      }
 
 print(users["asya"])"""
