@@ -18,9 +18,7 @@ class Quiz:
     def __init__(self, questions):
         self.questions = questions
         self.score = 0
-        self.questionIndex = (
-            0  # -> Hangi Soruyu seçeceğimiz. indexler 0 dan başladığı için soru1 gelir.
-        )
+        self.questionIndex = 0  # -> Hangi Soruyu seçeceğimiz. indexler 0 dan başladığı için soru1 gelir.
 
     def getquestion(self):
         return self.questions[self.questionIndex]
