@@ -16,7 +16,10 @@ import math as islem  # bu şekilde math modülünü istediğimiz bir isime atay
 
 # YÖNTEM 2
 
-from math import *
+from math import *  # --> * işareti math modülündeki bütün işlemleri kapsar.
+
+# bu şekilde aşağıda gözüktüğü gibi sadece fonksiyonu çağırarak modülün fonksiyonlarını kullanabiliriz.
+# eğer sadece belirli fonksiyonları kullanmak istiyorsak -from math import factorial, sqrt- şeklinde belirtmemiz gerekir.
 
 value = factorial(5)
 
